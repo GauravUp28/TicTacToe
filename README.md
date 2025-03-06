@@ -43,9 +43,9 @@ cd tic-tac-toe-compose
 ---
 
 ## **📸 Screenshots**
-| 🏠 Main Menu | 🎲 Game Screen | 🏆 Winner Screen |
-|-------------|--------------|---------------|
-| ![Menu](screenshots/menu_screen.png) | ![Game](screenshots/game_screen.png) | ![Winner](screenshots/winner_screen.png) |
+| 🏠 Main Menu                                 | 🎲 Game Screen                               | 🏆 Winner Screen                                 |
+|----------------------------------------------|----------------------------------------------|--------------------------------------------------|
+| ![Menu](app/src/screenshots/menu_screen.png) | ![Game](app/src/screenshots/game_screen.png) | ![Winner](app/src/screenshots/winner_screen.png) |
 
 ---
 
