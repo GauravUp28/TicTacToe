@@ -11,7 +11,7 @@ A modern Tic-Tac-Toe game built with **Jetpack Compose**. The game features **di
 ✅ **Beautiful gradient background**  
 ✅ **Dark mode support**  
 ✅ **Score tracking for both players**  
-✅ **Restart game & return to menu option**
+✅ **Restart game & return to menu option** 
 
 ---
 
@@ -22,7 +22,7 @@ git clone https://github.com/GauravUp28/tic-tac-toe-compose.git
 cd tic-tac-toe-compose
 ```
 
-### **2️⃣ Open in Android Studio**
+### **2️⃣ Open in Android Studio** 
 1. Open **Android Studio**.
 2. Select **"Open an existing project"**.
 3. Choose the cloned **`tic-tac-toe-compose`** folder.
